@@ -1,5 +1,5 @@
 import { useCallback } from "react";
-import Particles from "react-particles";
+import Particles from "react-tsparticles";
 import particlesConfig from "./ParticlesConfig";
 //import { loadFull } from "tsparticles"; // if you are going to use `loadFull`, install the "tsparticles" package too.
 import { loadSlim } from "tsparticles-slim"; // if you are going to use `loadSlim`, install the "tsparticles-slim" package too.
@@ -25,6 +25,7 @@ const App = () => {
             loaded={particlesLoaded}
             options={particlesConfig}
         />
+    
     );
 };
 
