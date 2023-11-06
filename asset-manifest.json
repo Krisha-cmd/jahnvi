@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/jahnvi/static/css/main.e6c13ad2.css",
-    "main.js": "/jahnvi/static/js/main.20db898d.js",
+    "main.js": "/jahnvi/static/js/main.5aeaf95d.js",
     "index.html": "/jahnvi/index.html",
     "main.e6c13ad2.css.map": "/jahnvi/static/css/main.e6c13ad2.css.map",
-    "main.20db898d.js.map": "/jahnvi/static/js/main.20db898d.js.map"
+    "main.5aeaf95d.js.map": "/jahnvi/static/js/main.5aeaf95d.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.20db898d.js"
+    "static/js/main.5aeaf95d.js"
   ]
 }
