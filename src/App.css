@@ -1,3 +1,7 @@
+*{
+    margin:0;
+}
+
 .App {
     text-align: center;
 }
@@ -46,3 +50,12 @@
     top: 0;
     z-index: -1;
 }
+
+.Background{
+    z-index: -1;
+}
+
+.Header .Main{
+    z-index: 1;
+}
+

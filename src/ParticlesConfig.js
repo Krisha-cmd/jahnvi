@@ -1,9 +1,4 @@
 const particlesConfig={
-    background: {
-        color: {
-            value: "#fff",
-        },
-    },
     fpsLimit: 120,
     interactivity: {
         events: {
@@ -29,7 +24,7 @@ const particlesConfig={
     },
     particles: {
         color: {
-            value: "#fbc4ce",
+            value: "#f77276",
         },
         links: {
             color: "#fbc4ce",
@@ -62,7 +57,7 @@ const particlesConfig={
             type: "circle",
         },
         size: {
-            value: { min: 1, max: 5 },
+            value: { min: 1, max: 3 },
         },
     },
     detectRetina: true,

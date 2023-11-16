@@ -1,0 +1,9 @@
+/* src/styles/Main.css */
+.main-container {
+    width: 400px;
+    height: 400px;
+    /* background-color: aqua; */
+    background-image: url("/public/images/avatar.png");
+    background-size: cover;
+  }
+  
