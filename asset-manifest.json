@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/jahnvi/static/css/main.68a1abf8.css",
-    "main.js": "/jahnvi/static/js/main.310b9757.js",
+    "main.css": "/jahnvi/static/css/main.5dce903d.css",
+    "main.js": "/jahnvi/static/js/main.30e5ccfa.js",
+    "static/media/tiara2.png": "/jahnvi/static/media/tiara2.a1edf25c348d7c11f1c5.png",
     "static/media/bg (2).jpg": "/jahnvi/static/media/bg (2).17fda8a828b9a2603e30.jpg",
     "static/media/avatar.png": "/jahnvi/static/media/avatar.db91168c6795bea98fa4.png",
     "index.html": "/jahnvi/index.html",
-    "main.68a1abf8.css.map": "/jahnvi/static/css/main.68a1abf8.css.map",
-    "main.310b9757.js.map": "/jahnvi/static/js/main.310b9757.js.map"
+    "main.5dce903d.css.map": "/jahnvi/static/css/main.5dce903d.css.map",
+    "main.30e5ccfa.js.map": "/jahnvi/static/js/main.30e5ccfa.js.map"
   },
   "entrypoints": [
-    "static/css/main.68a1abf8.css",
-    "static/js/main.310b9757.js"
+    "static/css/main.5dce903d.css",
+    "static/js/main.30e5ccfa.js"
   ]
 }
