@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/jahnvi/static/css/main.e6c13ad2.css",
-    "main.js": "/jahnvi/static/js/main.5aeaf95d.js",
+    "main.css": "/jahnvi/static/css/main.68a1abf8.css",
+    "main.js": "/jahnvi/static/js/main.310b9757.js",
+    "static/media/bg (2).jpg": "/jahnvi/static/media/bg (2).17fda8a828b9a2603e30.jpg",
+    "static/media/avatar.png": "/jahnvi/static/media/avatar.db91168c6795bea98fa4.png",
     "index.html": "/jahnvi/index.html",
-    "main.e6c13ad2.css.map": "/jahnvi/static/css/main.e6c13ad2.css.map",
-    "main.5aeaf95d.js.map": "/jahnvi/static/js/main.5aeaf95d.js.map"
+    "main.68a1abf8.css.map": "/jahnvi/static/css/main.68a1abf8.css.map",
+    "main.310b9757.js.map": "/jahnvi/static/js/main.310b9757.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.5aeaf95d.js"
+    "static/css/main.68a1abf8.css",
+    "static/js/main.310b9757.js"
   ]
 }
