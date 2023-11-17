@@ -17,7 +17,11 @@
     z-index: -1;
 }
 
-.Header .Main{
+.Main{
+    z-index: -1;
+}
+
+.Menu{
     z-index: 1;
 }
 

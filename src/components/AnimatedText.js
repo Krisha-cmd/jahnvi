@@ -11,6 +11,8 @@ const AnimatedText = () => {
           'Hello! "Dhi" Amantes',
           1000,
           'Witness the site of, fictional reality and colourful visuals',
+          1000,
+          'where words come to life and design breathes the inspiration',
           1000
         ]}
         speed={50}
