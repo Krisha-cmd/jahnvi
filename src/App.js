@@ -9,8 +9,9 @@ const App = () => {
     return (
         <div>
             <Background/> 
+            <Main/> 
              <Menu/> 
-            <Main/>       
+                  
         </div>
     );
 };

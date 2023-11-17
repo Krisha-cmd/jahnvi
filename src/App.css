@@ -14,14 +14,14 @@
 }
 
 .Background{
-    z-index: -1;
+    z-index: -5;
 }
 
 .Main{
-    z-index: -1;
+    z-index: -4;
 }
 
 .Menu{
-    z-index: 1;
+    z-index: 0;
 }
 
