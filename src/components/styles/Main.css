@@ -1,10 +1,24 @@
 .whole-container{
-    position: relative;
+    position: absolute;
+    top:23vh;
+    width: auto;
+    height: auto;
+    /* left: 15vw; */
+    display: flex;
+    /* flex-direction: row; */
+    /* justify-content:  */
+    margin: 0 15vw;
+
 
 }
 
 .avatar-container{
-    position: absolute;
+    /* position: absolute;
     top:23vh;
-    left: 15vw;
+    left: 15vw; */
+    width: 600px;
+}
+
+.text-container{
+    width: 600px;
 }

@@ -88,7 +88,7 @@ export const DockCard = ({ children }) => {
               y.set(0);
               isAnimating.current = false;
               timeoutRef.current = undefined;
-            }, 2000);
+            }, 1800);
             y.stop();
           }
           return { reverse: true };

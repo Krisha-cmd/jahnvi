@@ -10,7 +10,7 @@ const App = () => {
         <div>
             <Background/> 
              <Menu/> 
-            <Main/>          
+            <Main/>       
         </div>
     );
 };
