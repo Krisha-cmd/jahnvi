@@ -11,9 +11,20 @@ const Display = () => {
     config: config.molasses,
   });
 
+  const styles1 = useSpring({
+    loop: { reverse: true },
+    from: { y: 0 },
+    to: { y: 30 },
+    config: config.molasses,
+  });
+
   return (
-    <animated.div
-    className='main-container' style={{ ...styles }}/>
+    <div className='bubble-container'>
+      <animated.div
+      className='main-container' style={{ ...styles }}/>
+      <animated.div
+      className='main2-container' style={{ ...styles1 }}/>
+    </div>
 
   );
 };

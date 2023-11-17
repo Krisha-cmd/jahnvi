@@ -4,6 +4,7 @@
   "homepage": "https://Krisha-cmd.github.io/jahnvi",
   "private": true,
   "dependencies": {
+    "@use-gesture/react": "^10.3.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-particles": "^2.12.2",

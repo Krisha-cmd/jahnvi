@@ -24,7 +24,7 @@ const particlesConfig={
     },
     particles: {
         color: {
-            value: "#f77276",
+            value: "#f24487",
         },
         links: {
             color: "#fbc4ce",

@@ -1,0 +1,10 @@
+.whole-container{
+    position: relative;
+
+}
+
+.avatar-container{
+    position: absolute;
+    top:23vh;
+    left: 15vw;
+}

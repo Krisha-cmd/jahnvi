@@ -1,8 +1,7 @@
-
 import Background from "./components/Background";
-import Header from "./components/Header";
+import Menu from "./components/IconMenu/Menu";
 import './App.css'
-import Display from "./components/Display";
+import Main from "./components/Main"
 
 const App = () => {
     
@@ -10,8 +9,8 @@ const App = () => {
     return (
         <div>
             <Background/> 
-             <Header/>  
-            <Display/>          
+             <Menu/> 
+            <Main/>          
         </div>
     );
 };

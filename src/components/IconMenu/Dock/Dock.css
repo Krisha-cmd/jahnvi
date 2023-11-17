@@ -1,0 +1,17 @@
+.dock {
+    position: absolute;
+    top: 30px;
+    left: 50%;
+    transform: translateX(-20%);
+    align-items: flex-end;
+    height: 58px;
+    display: flex;
+    padding: 10px;
+    padding-bottom: 6px;
+    gap: 22px;
+    will-change: contents;
+    box-sizing: content-box;
+    border-radius: 12px;
+    transform-origin: center bottom;
+  }
+  
