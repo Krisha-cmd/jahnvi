@@ -12,10 +12,10 @@ const AnimatedText = () => {
           1000,
           'Witness the site of, fictional reality and colourful visuals',
           1000,
-          'where words come to life and design breathes the inspiration',
+          'Where words come to life and design breathes the inspiration',
           1000
         ]}
-        speed={50}
+        speed={40}
         style={{ whiteSpace: 'pre-line', fontSize: '2em' }}
         repeat={Infinity}
       />

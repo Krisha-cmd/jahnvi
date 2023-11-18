@@ -17,9 +17,9 @@
 
 .text-container{
     /* height: 500px; */
-    width: 440px;
+    width: 620px;
     height: 400px;
-    padding: 200px 10vw 0 0;
+    padding: 200px 5vw 0 0;
     text-align: center;
     font-size: x-large;
 }

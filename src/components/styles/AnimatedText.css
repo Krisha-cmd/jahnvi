@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.text-container{
+    font-family: 'Pacifico', cursive;
+    background: linear-gradient(30deg, #fd92c8, #3498db); /* Gradient from white to reddish-pink */
+    -webkit-background-clip: text; /* Use the text as a mask */
+    background-clip: text; /* Standard background-clip property */
+    color: transparent;
+    /* filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.3)); */
+}
