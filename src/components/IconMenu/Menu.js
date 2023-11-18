@@ -1,4 +1,4 @@
-
+import { Logo } from './Logo/Logo';
 import React from 'react';
 import { Card } from './Card/Card';
 import { Dock } from './Dock/Dock';
@@ -17,8 +17,9 @@ const GRADIENTS = [
 
 export default function Menu() {
   return (
-    <div className='body'>
+    <div className='header'>
       <div className='menu'></div>
+        <Logo/>
       <Dock>
         {GRADIENTS.map(({ src, title }, index) =>
           src ? (

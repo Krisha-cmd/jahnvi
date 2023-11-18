@@ -1,10 +1,36 @@
-.menu {
+.header{
   position: fixed;
   top: 0;
   width: 100%;
-  height: 110px;
+  height: 106px;
   background: linear-gradient(to bottom, rgb(252, 187, 204), rgba(251, 194, 209, 0.3));
-  filter: blur(10px);
   z-index: 0;
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 106px;
+  filter: blur(10px);
+  z-index: 0;
+}
+
+.Logo{
+  position: fixed;
+  /* top:20px;
+  left:20px; */
+  top:0;
+  left: 80px;
+  height:100px;
+  width: 360px;
+  z-index: 10;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
 }
