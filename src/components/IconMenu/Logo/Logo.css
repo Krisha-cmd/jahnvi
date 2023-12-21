@@ -4,9 +4,15 @@
     background-image: url('/public/images/logo.svg');
     background-size:cover;
     z-index: 10;
+    cursor: pointer;
     animation: pendulumRotate 2s cubic-bezier(0.42, 0, 0.58, 1) infinite;
     filter: drop-shadow(2px 2px 2px rgba(255, 106, 106, 0.5));
+    transition: filter 0.1s ; 
 }
+
+.logo:hover{
+    filter: brightness(1.5); /* Increase the brightness on hover (1.0 is normal brightness) */
+  }
 
 @keyframes pendulumRotate {
     0%, 100% {
