@@ -1,0 +1,92 @@
+/* ImageSlider.css */
+
+.image-slider-container {
+    max-width: 1000px;
+    max-height: 100%;
+    margin: 10%;
+    margin-top: 14%;
+  }
+  
+  .slider-item {
+    .card {
+      border-radius: 10px;
+      border: 0;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+      text-align: center;
+      height: 60vh;
+      margin: 0 6px;
+      width:18vw;
+      transition: transform 0.3s ease-in-out;
+  
+      &:hover {
+            
+      }
+  
+      h3 {
+        font-size: 1.5rem;
+        margin-bottom: 10px;
+      }
+  
+      p {
+        font-size: 1rem;
+        color: #555;
+      }
+  
+      .rating {
+        margin-top: 10px;
+      }
+    }
+  }
+  
+
+  .test-content{
+    background-color: rgba(255,255,255, 0.4);
+    position: absolute;
+    top:0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    filter: blur(10px);
+  }
+
+  .testers{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    z-index: 5;
+    width: 100%;
+    height: 200%;
+    transition: transform 0.3s ease-in-out;
+    
+  }
+
+  .testers:hover{
+    transform: translateY(-200px);
+  }
+  .testers:hover .test-comment{
+    display: block;
+  }
+
+  .tester-image{
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 200px;
+    width:200px ;
+    margin-bottom: 10%;
+  }
+
+  .tester-details{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    z-index: 5;
+    width: 100%;
+    height: 60%;
+  }
+
+  .test-comment{
+    display: none;
+  }

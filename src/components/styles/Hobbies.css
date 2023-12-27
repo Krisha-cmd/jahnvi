@@ -2,18 +2,18 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 10px;
-    margin-top: 20px;
+    margin-top: 100px;
   }
   
   @import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@500&display=swap');
 
   .hobby-button {
     position: relative;
-    width: 100%;
-    padding: 70px;
+    /* width: 100%; */
+    padding: 120px;
     border-radius: 12px;
     border: none;
-    color: white;
+    color: rgba(0,0,0,0);
     font-family: 'Playpen Sans', cursive;
     font-size: 20px;
     text-align: center;
@@ -35,9 +35,32 @@
 
  .button-image{
   position: absolute;
-  width: 50%;
-  top:25%;
-  left: 25%;
-  height: 50%;
-  z-index: 6;
+  display: flex;
+  justify-content: center;
+  align-items: last baseline;
+  width: 70%;
+  top:15%;
+  left: 15%;
+  font-size: 24px;
+  color: white;
+  height: 60%;
+ }
+
+.button-image span{
+  position: absolute;
+  bottom: -30%;
+}
+
+ .button-image#i1{
+  background-image: url(/public/images/Asset1.svg);
+ }
+ .button-image#i2{
+  background-image: url(/public/images/Asset2.svg);
+ }
+ .button-image#i3{
+  background-image: url(/public/images/Asset3.svg);
+ }
+ 
+ .button-image#i4{
+  background-image: url(/public/images/Asset4.svg);
  }

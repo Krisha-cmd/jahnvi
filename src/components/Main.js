@@ -4,6 +4,7 @@ import AnimatedText from './AnimatedText'
 import Display from './Display'
 import HobbyText from './HobbyText'
 import Hobbies from './Hobbies'
+import Testimonials from './Testimonials'
 
 const Main = () => {
   return (
@@ -23,6 +24,9 @@ const Main = () => {
       <div className='hobbiest'>
         <Hobbies/>
       </div>
+    </div>
+    <div className='Testimonials'>
+      <Testimonials/>
     </div>
     </div>
   )
