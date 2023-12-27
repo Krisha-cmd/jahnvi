@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/jahnvi/static/css/main.54fa2374.css",
+    "main.css": "/jahnvi/static/css/main.16235554.css",
     "main.js": "/jahnvi/static/js/main.1c8e56d7.js",
     "static/media/logo.svg": "/jahnvi/static/media/logo.de356f22b4a45460d97c.svg",
+    "static/media/bg2.jpg": "/jahnvi/static/media/bg2.fb6c535aba23b99001c8.jpg",
     "static/media/tiara2.png": "/jahnvi/static/media/tiara2.a1edf25c348d7c11f1c5.png",
     "static/media/Asset3.svg": "/jahnvi/static/media/Asset3.00b7cf9131a2d685e851.svg",
     "static/media/Asset4.svg": "/jahnvi/static/media/Asset4.2578c43661c05dc57ac9.svg",
-    "static/media/bg (2).jpg": "/jahnvi/static/media/bg (2).17fda8a828b9a2603e30.jpg",
     "static/media/consanos.jpg": "/jahnvi/static/media/consanos.507c8ecc887d7d28208f.jpg",
     "static/media/published works.jpg": "/jahnvi/static/media/published works.e23c1251308cb9886ea8.jpg",
     "static/media/avatar.png": "/jahnvi/static/media/avatar.db91168c6795bea98fa4.png",
@@ -23,11 +23,11 @@
     "static/media/slick.ttf": "/jahnvi/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/jahnvi/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/jahnvi/index.html",
-    "main.54fa2374.css.map": "/jahnvi/static/css/main.54fa2374.css.map",
+    "main.16235554.css.map": "/jahnvi/static/css/main.16235554.css.map",
     "main.1c8e56d7.js.map": "/jahnvi/static/js/main.1c8e56d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.54fa2374.css",
+    "static/css/main.16235554.css",
     "static/js/main.1c8e56d7.js"
   ]
 }
