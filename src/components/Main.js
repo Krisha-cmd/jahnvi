@@ -5,6 +5,8 @@ import Display from './Display'
 import HobbyText from './HobbyText'
 import Hobbies from './Hobbies'
 import Testimonials from './Testimonials'
+import Achievements from './Achievements'
+import Invitations from './Invitations'
 
 const Main = () => {
   return (
@@ -27,6 +29,12 @@ const Main = () => {
     </div>
     <div className='Testimonials'>
       <Testimonials/>
+    </div>
+    <div className='Achievements'>
+      <Achievements/>
+    </div>
+    <div className='Invitations'>
+      {/* <Invitations/> */}
     </div>
     </div>
   )

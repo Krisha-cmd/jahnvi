@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 10px;
-    margin-top: 100px;
+    margin-top: 120px;
   }
   
   @import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@500&display=swap');
@@ -10,15 +10,17 @@
   .hobby-button {
     position: relative;
     /* width: 100%; */
-    padding: 120px;
-    border-radius: 12px;
+    padding: 110px;
+    margin-top: 10px;
+    border-radius: 50%;
     border: none;
     color: rgba(0,0,0,0);
     font-family: 'Playpen Sans', cursive;
     font-size: 20px;
     text-align: center;
     cursor: pointer;
-    border: 5px solid rgba(0,0,0,0.3);
+    /* border: 5px solid rgba(0,0,0,0.3); */
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
     transition: background-color 0.3s,
   }
   

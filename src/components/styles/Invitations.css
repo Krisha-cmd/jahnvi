@@ -1,0 +1,12 @@
+.color-gallery-container {
+    position: relative;
+    margin-top: 100px;
+    display: flex;
+    padding: 5%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    width: 80%;
+    height: 50%;
+    justify-content: space-between;
+    align-items: center;
+  }
