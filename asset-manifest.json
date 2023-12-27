@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/jahnvi/static/css/main.f7bb3beb.css",
-    "main.js": "/jahnvi/static/js/main.e15ab558.js",
+    "main.css": "/jahnvi/static/css/main.62ff756c.css",
+    "main.js": "/jahnvi/static/js/main.81a46d5a.js",
     "static/media/logo.svg": "/jahnvi/static/media/logo.de356f22b4a45460d97c.svg",
     "static/media/tiara2.png": "/jahnvi/static/media/tiara2.a1edf25c348d7c11f1c5.png",
     "static/media/bg (2).jpg": "/jahnvi/static/media/bg (2).17fda8a828b9a2603e30.jpg",
     "static/media/avatar.png": "/jahnvi/static/media/avatar.db91168c6795bea98fa4.png",
     "index.html": "/jahnvi/index.html",
-    "main.f7bb3beb.css.map": "/jahnvi/static/css/main.f7bb3beb.css.map",
-    "main.e15ab558.js.map": "/jahnvi/static/js/main.e15ab558.js.map"
+    "main.62ff756c.css.map": "/jahnvi/static/css/main.62ff756c.css.map",
+    "main.81a46d5a.js.map": "/jahnvi/static/js/main.81a46d5a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7bb3beb.css",
-    "static/js/main.e15ab558.js"
+    "static/css/main.62ff756c.css",
+    "static/js/main.81a46d5a.js"
   ]
 }
