@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
-.text-container{
+.text-container, .hobby-text{
     font-family: 'Pacifico', cursive;
     background: linear-gradient(30deg, #fd92c8, #3498db); /* Gradient from white to reddish-pink */
     -webkit-background-clip: text; /* Use the text as a mask */
